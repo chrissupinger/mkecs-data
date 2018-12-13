@@ -14,7 +14,7 @@ Stay tuned for updates.
   * [Milwaukee OpenData](https://data.milwaukee.gov)
 
 ## Notes
-* Stay tuned for updates.
+* Datasets will be subject to continual update since WIBRS data is always updated; updates in WIBRS queues amendments to the servicing dataset
 
 ## Updates
 * 12.12.18: Initial commit, but program has been functional; was waiting for commit of its servicing platform (mkecrimestats-kde)
