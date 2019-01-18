@@ -1,4 +1,4 @@
-# mkecs-data: Data Aggregation & Amending for mkecrimestats-kde
+# mkecs-data: Data Aggregation & Amending for mkecs-kde
 
 ## Purpose
 Stay tuned for updates.
@@ -23,4 +23,4 @@ Stay tuned for updates.
 * [ ] 12.12.18: Some anomalies, in the original dataset from Milwaukee OpenData, exist and hinder accurate captures of address and geocode data
 
 ## License
-* © 2018-2019 Chris Supinger (see LICENSE).  This project is powered by open-source software.
+* © 2018-9 Chris Supinger (see LICENSE).  This project is powered by open-source software.
